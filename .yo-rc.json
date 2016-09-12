@@ -1,0 +1,22 @@
+{
+  "generator-github-create": {
+    "authenticate": {
+      "username": "trainerbill",
+      "twofactor": false
+    },
+    "create": {
+      "useOrg": true,
+      "org": "modern-mean",
+      "name": "gentest",
+      "description": "Repository generated with generator-github-create",
+      "private": false,
+      "init": true,
+      "push": true,
+      "urls": [
+        "https://github.com/modern-mean/gentest",
+        "git@github.com:modern-mean/gentest.git",
+        "https://github.com/modern-mean/gentest.git"
+      ]
+    }
+  }
+}
